@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Models and runs
+02-experiment-tracking/mlruns/*
+02-experiment-tracking/models/*
+02-experiment-tracking/mlflow.db

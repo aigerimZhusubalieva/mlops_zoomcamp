@@ -229,3 +229,6 @@ __marimo__/
 02-experiment-tracking/hw/mlruns/*
 02-experiment-tracking/hw/output/*
 02-experiment-tracking/hw/mlflow.db
+
+03-orchestration/mlflow_data/*
+03-orchestration/models/*

@@ -123,4 +123,3 @@ if __name__=='__main__':
 
     with open('run_ud.txt', 'w') as f:
         f.write(run_id)
-    
